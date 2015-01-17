@@ -9,7 +9,7 @@
   <properties>
    <version>0.0.1-SNAPSHOT</version>
   </properties>
-  <modules>
+   <modules>
   	<module>myapp-integration</module>
   
 	<module>myapp-service</module>
