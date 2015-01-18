@@ -33,5 +33,6 @@
   
  <modules>
  	<module>myapp-integrationLayer</module>
+ 	<module>myapp-serviceLayer</module>
  </modules>
 </project>
