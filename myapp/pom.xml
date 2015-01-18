@@ -9,12 +9,7 @@
   <properties>
    <version>0.0.1-SNAPSHOT</version>
   </properties>
-   <modules>
-  	<module>myapp-integration</module>
   
-	<module>myapp-service</module>
-    <module>myapp-presentation</module>
-  </modules>
 <!--  <dependencies> -->
  
 <!--  <dependency> -->
