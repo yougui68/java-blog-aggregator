@@ -31,4 +31,7 @@
  
  </dependencyManagement>
   
+ <modules>
+ 	<module>myapp-integrationLayer</module>
+ </modules>
 </project>
